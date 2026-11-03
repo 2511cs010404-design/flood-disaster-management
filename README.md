@@ -6,9 +6,9 @@ An intelligent, real-time flood monitoring, risk assessment, and emergency disas
 
 ## 🚀 Live Deployment
 
-- **Vercel Live Deployment:** [https://racing-steppe-z89mpcq.tmp.now](https://racing-steppe-z89mpcq.tmp.now)
-- **Claim this Deployment to your Vercel Account:** [Claim Deployment on Vercel](https://vercel.com/claim-deployment?code=edbd28b1-be5e-4ee4-9603-55ec2e6439e4)
-- **One-Click Deploy from GitHub:**
+🔗 **Live URL:** [https://racing-steppe-z89mpcq.tmp.now](https://racing-steppe-z89mpcq.tmp.now)
+
+🔗 **Vercel Dashboard:** [https://vercel.com/rohitabraboina-4319/racing-steppe-z89mpcq](https://vercel.com/rohitabraboina-4319/racing-steppe-z89mpcq)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F2511cs010404-design%2Fflood-disaster-management)
 
